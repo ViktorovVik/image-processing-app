@@ -1,0 +1,14 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Служебные файлы Python
+__pycache__/
+*.py[cod]
+
+# Файлы сред разработки и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
